@@ -1,0 +1,15 @@
+Difficulty,Question,Correct,Recovered,Latency,Valid_SQL
+easy,Get all column data for all artists.,False,False,3.04,True
+easy,Show the names of all genres available.,True,False,1.57,True
+easy,Find the total number of customers.,True,False,2.33,True
+easy,List the cities where our customers live.,False,False,2.31,True
+easy,Find the name of the track with ID 5.,True,False,1.31,True
+easy,List all employees hired after 2002.,False,False,2.76,True
+easy,Show the first 10 rows of the Invoice table.,False,False,6.53,False
+easy,Find all tracks that cost more than 1.00.,False,False,4.98,True
+easy,List all customers from Brazil.,False,False,2.21,True
+easy,What is the total number of playlists?,False,True,11.92,True
+medium,Which artist has the most albums in the database?,False,True,9.1,True
+medium,List the total number of tracks for each genre.,False,False,7.48,True
+medium,Find the total sales (revenue) for the artist 'Iron Maiden'.,False,False,4.98,True
+medium,Show the top 3 customers who have spent the most money.,False,False,13.4,False

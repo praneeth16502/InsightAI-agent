@@ -1,0 +1,25 @@
+Difficulty,Question,Correct,Recall,Latency,Valid
+easy,Show all artists.,True,1.0,1.33,True
+easy,List all genres.,True,1.0,1.27,True
+easy,Count total customers.,True,1.0,1.66,True
+easy,Show all customers from USA.,False,0.0,2.11,True
+easy,Show all tracks.,True,1.0,2.47,True
+easy,Show all albums.,True,1.0,1.25,True
+easy,List all employees.,True,0.88,1.25,True
+easy,Show first 5 invoices.,True,1.0,2.41,True
+easy,Show all playlists.,True,1.0,1.32,True
+easy,Count total tracks.,True,1.0,2.18,True
+easy,Show tracks with price greater than 0.99.,True,1.0,2.93,True
+easy,List customers from Canada.,False,0.0,2.26,True
+easy,Show employees hired after 2000.,True,0.88,2.73,True
+easy,List invoices with total greater than 10.,True,1.0,2.3,True
+easy,Show tracks longer than 300000 milliseconds.,True,1.0,2.36,True
+easy,List customers ordered by last name.,True,1.0,1.71,True
+easy,List albums ordered by title.,False,0.0,2.2,True
+easy,Show tracks from album ID 1.,True,1.0,2.47,True
+easy,Show invoices from customer ID 1.,False,0.0,2.45,True
+easy,Show tracks with genre ID 1.,True,1.0,2.29,True
+medium,List track names and their genre names.,True,1.0,3.95,True
+medium,List album titles and artist names.,True,1.0,2.84,True
+medium,Count number of tracks per genre.,False,0.0,4.01,True
+medium,Show total invoice count per customer.,True,1.0,4.38,True
