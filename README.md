@@ -34,11 +34,18 @@ Storage | Local database only
 
 ---
 
-## ✨ Demo Screenshots
-
+### 🧪 Benchmark Results
+| Difficulty | Accuracy | Validity | Avg. Latency |
+| :--- | :--- | :--- | :--- |
+| **Easy** | 90.0% | 100% | ~3.8s |
+| **Medium** | 70.0% | 90% | ~4.5s |
 
 ---
 
-### 🧪 Benchmark Results
+## ✨ Demo Screenshots
+<img width="2564" height="1606" alt="image" src="https://github.com/user-attachments/assets/3b02d891-e563-4274-a9d5-bbc8ae890b54" />
+
+
+---
 
 
